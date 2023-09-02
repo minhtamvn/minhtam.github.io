@@ -10,4 +10,4 @@
 
 ## Nội Dung Khác
 
-* [Page 1](noi-dung-khac/page-1.md)
+* [Cách cài Google TV Home](noi-dung-khac/cach-cai-google-tv-home.md)

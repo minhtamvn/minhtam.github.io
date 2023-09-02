@@ -1,4 +1,8 @@
-# Page 1
+---
+description: (Không ổn định)
+---
+
+# Cách cài Google TV Home
 
 Google TV đã ra mắt trên Chromecast mới trong tuần này, trong đó đáng chú ý nhất là màn hình chính được làm mới. Nếu bạn thích phong cách mới thì đây là cách sử dụng màn hình chính của Google TV trên thiết bị Android TV.\
 [![Ảnh minh hoạ](https://1.bp.blogspot.com/-BSR3S-w1-PQ/X3fYHoxXq9I/AAAAAAAAAls/cnn500qTsMMxIWYtDYPpNsVOsJINjH4KwCLcBGAsYHQ/w320-h180/unnamed%2B%2810%29.webp)](https://1.bp.blogspot.com/-BSR3S-w1-PQ/X3fYHoxXq9I/AAAAAAAAAls/cnn500qTsMMxIWYtDYPpNsVOsJINjH4KwCLcBGAsYHQ/s1024/unnamed%2B%2810%29.webp)![](<../.gitbook/assets/image (5).png>)\
