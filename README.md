@@ -1,6 +1,7 @@
 ---
 Description: Trang chia sẻ nội dung miễn phí cho Android và Android TV  😃
 description: Trang chia sẻ nội dung miễn phí cho Android TV
+coverY: 0
 ---
 
 # 👋 Giới Thiệu
