@@ -1,5 +1,5 @@
 ---
-description: Đôi lời về trang này 😃
+Description: Trang chia sẻ nội dung miễn phí cho Android và Android TV  😃
 ---
 
 # 👋 Giới Thiệu
