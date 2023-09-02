@@ -2,7 +2,7 @@
 
 * [👋 Giới Thiệu](README.md)
 
-## 📺 Android TV
+## Android TV
 
 * [🆗 TiviMate IPTV Player](android-tv/tivimate-iptv-player.md)
 * [▶ OTT Navigator IPTV](android-tv/what-we-do.md)
