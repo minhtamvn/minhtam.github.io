@@ -1,11 +1,11 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Giới Thiệu](README.md)
 
-## Overview
+## 📺 App cho Android TV <a href="#android-tv" id="android-tv"></a>
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 OTT Navigator IPTV](android-tv/what-we-do.md)
+* [✨ Our Features](android-tv/our-features.md)
 
 ## Product Guides
 
