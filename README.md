@@ -2,6 +2,20 @@
 Description: Trang chia sẻ nội dung miễn phí cho Android và Android TV  😃
 description: Trang chia sẻ nội dung miễn phí cho Android TV
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 👋 Giới Thiệu
