@@ -2,7 +2,7 @@
 description: Premium Mod
 ---
 
-# 💡 OTT Navigator IPTV
+# ▶ OTT Navigator IPTV
 
 ![](../.gitbook/assets/image.png)![](<../.gitbook/assets/image (1).png>)
 
