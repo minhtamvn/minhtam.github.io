@@ -8,6 +8,6 @@
 * [▶ OTT Navigator IPTV](android-tv/what-we-do.md)
 * [🆓 IPTV Pro](android-tv/iptv-pro.md)
 
-***
+## Nội Dung Khác
 
-* [🤑 Khác](more.md)
+* [Page 1](noi-dung-khac/page-1.md)
