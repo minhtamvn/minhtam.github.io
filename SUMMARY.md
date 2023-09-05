@@ -11,3 +11,4 @@
 ## Nội Dung Khác
 
 * [🟡 Cách cài Google TV Home](noi-dung-khac/cach-cai-google-tv-home.md)
+* .[Sử dụng trình phát bên ngoài cho Kodi](noi-dung-khac/external-players-kodi.md) 
