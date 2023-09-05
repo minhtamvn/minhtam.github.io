@@ -2,9 +2,9 @@
 description: Premium Mod
 ---
 
-# ▶ OTT Navigator IPTV
+# 🟤 OTT Navigator IPTV
 
-![](../.gitbook/assets/image.png)![](<../.gitbook/assets/image (1).png>)
+![](../.gitbook/assets/image.png) ![](<../.gitbook/assets/image (1).png>)
 
 Xem IPTV của nhà cung cấp của bạn trên mọi thiết bị (điện thoại, máy tính bảng, TV, TV-box)
 
@@ -36,14 +36,12 @@ Mạng:
 Và nhiều hơn nữa, bao gồm hỗ trợ AFR, hỗ trợ DRM, khuyến nghị, v.v!
 
 {% hint style="info" %}
-Thông tin về bản MOD:&#x20;
+Thông tin về bản MOD:
 
-
-
-* Phiên bản 1.6.9.2.&#x20;
+* Phiên bản 1.6.9.2.
 * Đã mở khóa tính năng cao cấp.
-* Quảng cáo bị xóa/vô hiệu hóa.&#x20;
-* Đã tắt Analytics/Crashlytics.&#x20;
+* Quảng cáo bị xóa/vô hiệu hóa.
+* Đã tắt Analytics/Crashlytics.
 * Người nhận và dịch vụ bị xóa/vô hiệu hóa.
 * Đồ họa tối ưu hóa/Zipalign.
 * Xoá thông tin gỡ lỗi.
