@@ -5,7 +5,7 @@
 ## Android TV
 
 * [🟢 TiviMate IPTV Player](android-tv/tivimate-iptv-player.md)
-* [🟤 OTT Navigator IPTV](android-tv/what-we-do.md)
+* [🟤 OTT Navigator IPTV](android-tv/ott-navigator-iptv.md)
 * [🟤 IPTV Pro](android-tv/iptv-pro.md)
 
 ## Nội Dung Khác
