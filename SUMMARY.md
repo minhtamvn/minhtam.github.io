@@ -5,10 +5,10 @@
 ## Android TV
 
 * [🟢 TiviMate IPTV Player](android-tv/tivimate-iptv-player.md)
-* [🟤 OTT Navigator IPTV](android-tv/ott-navigator-iptv.md)
-* [🟤 IPTV Pro](android-tv/iptv-pro.md)
+* [🔵 OTT Navigator IPTV](android-tv/ott-navigator-iptv.md)
+* [🔵 IPTV Pro](android-tv/iptv-pro.md)
 
 ## Nội Dung Khác
 
-* [🟡 Cách cài Google TV Home](noi-dung-khac/cach-cai-google-tv-home.md)
-* [📀 Sử dụng trình phát bên ngoài cho Kodi](noi-dung-khac/external-players-kodi.md) 
+* [🏚 Cách cài Google TV Home](noi-dung-khac/cach-cai-google-tv-home.md)
+* [▶ Sử dụng trình phát bên ngoài cho Kodi](noi-dung-khac/external-players-kodi.md)
