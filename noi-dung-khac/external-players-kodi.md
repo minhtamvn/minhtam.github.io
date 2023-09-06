@@ -1,26 +1,38 @@
 ---
-title: "External Players in Kodi"
-date: 2022-08-27T00:00:00+05:30
-tags: ["AndroidTV", "Kodi", "JustPlayer", "MXPlayer"]
+title: External Players in Kodi
+date: 2022-08-26T18:30:00.000Z
+tags:
+  - AndroidTV
+  - Kodi
+  - JustPlayer
+  - MXPlayer
+description: >-
+  Thiết lập các trình phát video như Just Player và MX Player để sử dụng trên
+  Kodi
 ---
 
-Setup video players like Just Player and MX Player to use on Kodi
+# 📀 Sử dụng trình phát bên ngoài cho Kodi
 
-# Video Players
-- Install the player of your choice
-- Use the package name of the player as `filename` in the configuration file
+Thiết lập các trình phát video như Just Player và MX Player để sử dụng trên Kodi
 
-I use the below players on my Android TV
-- [Just Player](https://play.google.com/store/apps/details?id=com.brouken.player)
-  - I use it as the default player on Kodi.
-  - It plays most video and audio formats.
-  - It is open source and available at [github.com](https://github.com/moneytoo/Player)
-- [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad)
-  - I use it as an alternative to play any files that are not supported by the other player.
-  - To use in Kodi, long click on the item to play, and select the `Play using` menu option.
+## Video Players
 
-# Configuration
-Create a `playercorefactory.xml` configure file at `Android/data/org.xbmc.kodi/files/.kodi/userdata/`
+* Cài đặt trình phát bạn chọn
+* Sử dụng tên gói của trình phát làm tên tệp trong tệp cấu hình
+
+Tôi sử dụng các trình phát bên dưới trên Android TV của mình
+
+* [Just Player](https://play.google.com/store/apps/details?id=com.brouken.player)
+  * Tôi sử dụng nó làm trình phát mặc định trên Kodi.
+  * Nó phát được hầu hết các định dạng video và âm thanh.
+  * Nó là mã nguồn mở và có sẵn tại [github.com](https://github.com/moneytoo/Player)
+* [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad)
+  * Tôi sử dụng nó như một giải pháp thay thế để phát bất kỳ tệp nào không được trình phát khác hỗ trợ.
+  * Để sử dụng trong Kodi, hãy nhấn giữ chuột mục cần phát và chọn tùy chọn`Play using`.
+
+## Cấu Hình
+
+Tạo tệp cấu hình `playercorefactory.xml` tại  `Android/data/org.xbmc.kodi/files/.kodi/userdata/`
 
 ```xml
 <playercorefactory>
@@ -50,5 +62,6 @@ Create a `playercorefactory.xml` configure file at `Android/data/org.xbmc.kodi/f
 </playercorefactory>
 ```
 
-# References
-- External Players at [kodi.wiki](https://kodi.wiki/view/External_players)
+## References
+
+* External Players at [kodi.wiki](https://kodi.wiki/view/External\_players)
