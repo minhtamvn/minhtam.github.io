@@ -4,7 +4,7 @@ description: >-
   Android TV.
 ---
 
-# 🔵 MT Files Manager
+# 🟣 MT Files Manager
 
 Với MT Files Manager bạn có thể dễ dàn quản lý tệp tin, truyền dữ liệu lên tv không dây thông qua mạng nội bộ, dễ dàng dọn dẹp hệ thống và chia sẻ tệp tin với công cụ được tích hợp sẵn.
 
