@@ -11,6 +11,7 @@
 * [🔵 MT Files Manager](android-tv/mt-files-manager.md)
 * [🔵 nPlayer](android-tv/nplayer.md)
 * [🟣 MTChannel](android-tv/mtchannel.md)
+* [🟣 Sideload Channel](android-tv/sideload-channel.md)
 
 ## Nội Dung Khác
 
