@@ -13,3 +13,4 @@
 
 * [🏚 Cách cài Google TV Home](noi-dung-khac/cach-cai-google-tv-home.md)
 * [▶ Sử dụng trình phát bên ngoài cho Kodi](noi-dung-khac/external-players-kodi.md)
+* [📶 Quản lý file từ xa bằng FTP Server](noi-dung-khac/quan-ly-file-tu-xa-bang-ftp-server.md)
