@@ -11,7 +11,7 @@ description: >-
   Kodi
 ---
 
-# 📀 Sử dụng trình phát bên ngoài cho Kodi
+# ▶ Sử dụng trình phát bên ngoài cho Kodi
 
 Thiết lập các trình phát video như Just Player và MX Player để sử dụng trên Kodi
 

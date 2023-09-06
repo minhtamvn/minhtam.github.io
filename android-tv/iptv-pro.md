@@ -2,7 +2,7 @@
 description: Mod/Patched
 ---
 
-# 🆓 IPTV Pro
+# 🔵 IPTV Pro
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -49,8 +49,6 @@ Tuyên bố từ chối trách nhiệm:
     * Người dùng phải cung cấp nội dung của riêng họ
     * Chúng tôi không có liên kết với bất kỳ nhà cung cấp nội dung nào và không thể chịu trách nhiệm về nội dung do các bên thứ ba cung cấp
     * Chúng tôi không xác nhận việc phát trực tuyến bất kỳ tài liệu được bảo vệ bản quyền nào mà không có sự cho phép của chủ bản quyền
-
-
 
 ## Download
 

@@ -2,9 +2,9 @@
 description: Premium + Việt hoá V2.8.0
 ---
 
-# 🆗 TiviMate IPTV Player
+# 🟢 TiviMate IPTV Player
 
-![](<../.gitbook/assets/image (4).png>)![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (4).png>) ![](<../.gitbook/assets/image (3).png>)
 
 Với TiviMate, bạn có thể xem các kênh truyền hình trực tiếp từ nhà cung cấp IPTV của mình trên các hộp giải mã Android.
 

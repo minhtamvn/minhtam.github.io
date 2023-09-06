@@ -2,9 +2,9 @@
 description: Premium Mod
 ---
 
-# 🟤 OTT Navigator IPTV
+# 🔵 OTT Navigator IPTV
 
-![](../.gitbook/assets/image.png) ![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1).png>) ![](<../.gitbook/assets/image (1) (1).png>)
 
 Xem IPTV của nhà cung cấp của bạn trên mọi thiết bị (điện thoại, máy tính bảng, TV, TV-box)
 

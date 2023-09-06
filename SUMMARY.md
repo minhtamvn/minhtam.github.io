@@ -7,6 +7,7 @@
 * [🟢 TiviMate IPTV Player](android-tv/tivimate-iptv-player.md)
 * [🔵 OTT Navigator IPTV](android-tv/ott-navigator-iptv.md)
 * [🔵 IPTV Pro](android-tv/iptv-pro.md)
+* [🔵 AirReceiver](android-tv/airreceiver.md)
 
 ## Nội Dung Khác
 

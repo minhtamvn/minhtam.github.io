@@ -2,11 +2,10 @@
 description: (Không ổn định)
 ---
 
-# Cách cài Google TV Home
+# 🏚 Cách cài Google TV Home
 
 Google TV đã ra mắt trên Chromecast mới trong tuần này, trong đó đáng chú ý nhất là màn hình chính được làm mới. Nếu bạn thích phong cách mới thì đây là cách sử dụng màn hình chính của Google TV trên thiết bị Android TV.\
-[![Ảnh minh hoạ](https://1.bp.blogspot.com/-BSR3S-w1-PQ/X3fYHoxXq9I/AAAAAAAAAls/cnn500qTsMMxIWYtDYPpNsVOsJINjH4KwCLcBGAsYHQ/w320-h180/unnamed%2B%2810%29.webp)](https://1.bp.blogspot.com/-BSR3S-w1-PQ/X3fYHoxXq9I/AAAAAAAAAls/cnn500qTsMMxIWYtDYPpNsVOsJINjH4KwCLcBGAsYHQ/s1024/unnamed%2B%2810%29.webp)![](<../.gitbook/assets/image (5).png>)\
-
+[![Ảnh minh hoạ](https://1.bp.blogspot.com/-BSR3S-w1-PQ/X3fYHoxXq9I/AAAAAAAAAls/cnn500qTsMMxIWYtDYPpNsVOsJINjH4KwCLcBGAsYHQ/w320-h180/unnamed%2B\(10\).webp)](https://1.bp.blogspot.com/-BSR3S-w1-PQ/X3fYHoxXq9I/AAAAAAAAAls/cnn500qTsMMxIWYtDYPpNsVOsJINjH4KwCLcBGAsYHQ/s1024/unnamed%2B\(10\).webp)![](<../.gitbook/assets/image (5).png>)\\
 
 {% hint style="info" %}
 _Lưu ý: Tôi không chịu trách nhiệm về bất kỳ mất mát dữ liệu hoặc lỗi nào bạn có thể gặp phải. Cẩn thận trước khi thực hiện. Tôi chỉ khuyến khích phương pháp này cho những người biết sử dụng các lệnh Android ADB.Yêu cầu thiết bị chạy Android TV 9.0 hoặc cao hơn._\
@@ -17,7 +16,7 @@ _Lưu ý: Tôi không chịu trách nhiệm về bất kỳ mất mát dữ li�
 
 \* Tab Tìm kiếm có thể sẽ không hoạt động. Để nó hoạt động, hãy cập nhật ứng dụng Google tìm kiếm mới nhất hoặc cập nhật thủ công
 
-&#x20;[Tải về bản cập nhật Google](https://www.apkmirror.com/apk/google-inc/google-app-for-android-tv-android-tv/)\
+[Tải về bản cập nhật Google](https://www.apkmirror.com/apk/google-inc/google-app-for-android-tv-android-tv/)\
 \
 HƯỚNG DẪN BẬT ADBMở Cài đặt > Giới thiệu > Build Version và nhấn liên tục phím OK cho đến khi báo Tùy chọn nhà phát triển được bật. Nhấn phím quay lại và vào menu Tùy chọn thiết bị, tìm và mở Tùy chọn nhà phát triển. Sau đó, bạn bật cả Gỡ lỗi USB và Gỡ lỗi mạng. Sau đó, quay lại menu Cài đặt > Tùy chọn thiết bị > Giới thiệu > Trạng thái để lấy địa chỉ IP của thiết bị.\
 \
