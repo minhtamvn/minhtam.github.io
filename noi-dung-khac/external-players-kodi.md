@@ -28,7 +28,7 @@ Tôi sử dụng các trình phát bên dưới trên Android TV của mình
   * Nó là mã nguồn mở và có sẵn tại [github.com](https://github.com/moneytoo/Player)
 * [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad)
   * Tôi sử dụng nó như một giải pháp thay thế để phát bất kỳ tệp nào không được trình phát khác hỗ trợ.
-  * Để sử dụng trong Kodi, hãy nhấn giữ chuột mục cần phát và chọn tùy chọn`Play using`.
+  * Để sử dụng trong Kodi, hãy nhấn giữ chuột mục cần phát và chọn tùy chọn `Play using`.
 
 ## Cấu Hình
 
