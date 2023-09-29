@@ -8,7 +8,7 @@ description: MTChannel - Đưa ứng dụng ra màn hình home Android TV
 
 MT Channel - giúp bạn dễ dàng hiển thị những ứng dụng không dành cho android tv ra ngoài màn hình home.\
 \* Ứng dụng được chỉnh sửa từ ứng dụng gốc Nebula Manager trên Play Store được phát hành miễn phí bởi Anker.\
-[Tải APK](https://bit.ly/3hHnbv9) MOD  hoặc [Play Store](https://play.google.com/store/apps/details?id=com.zhixin.atvchannel)\
+
 Để thêm ứng dụng ra màn hình home, bạn chỉ cần thao tác tick chọn ứng dụng là xong.
 
 | ![Ảnh chụp màn hình](https://lh3.googleusercontent.com/8DUotB1DAbrh4AG75-8wbUp-lftQiBfASZrDh1ppjbFGCiyBG0cWVHxFgg90MKYy\_g=w720-h310-rw) |
