@@ -10,5 +10,5 @@ Nếu gặp khó khăn, bạn có thể liên hệ mình thông qua Email: [admi
 
 ## Ủng hộ
 
-Nếu thấy hữu ích, đừng quên ủng hộ mình thông qua: [Paypal](https://paypal.me/minhtamvn), [Vietcombank](tel:0391000302815) `(NGUYENMINHTAM).` Xin chân thành cảm ơn. ❤️
+Nếu thấy hữu ích, đừng quên ủng hộ mình thông qua: [Paypal](https://paypal.me/minhtamvn), [Vietcombank](tel:0391000302815) `(Chủ TK: Nguyễn Minh Tâm).` Xin chân thành cảm ơn. ❤️
 
