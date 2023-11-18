@@ -14,6 +14,7 @@
 * [🟣 Sideload Channel](android-tv/sideload-channel.md)
 * [🌐 Trình Duyệt Web](android-tv/trinh-duyet-web/README.md)
   * [🔵 BrowseHere](android-tv/trinh-duyet-web/browsehere.md)
+  * [🟢 TV Bro](android-tv/trinh-duyet-web/tv-bro.md)
 
 ## Nội Dung Khác
 
