@@ -4,7 +4,7 @@ description: MTChannel - Đưa ứng dụng ra màn hình home Android TV
 
 # 🟣 MTChannel
 
-<img src="../.gitbook/assets/image (9).png" alt="" data-size="original">&#x20;
+![](<../.gitbook/assets/image (9).png>)
 
 MT Channel - giúp bạn dễ dàng hiển thị những ứng dụng không dành cho android tv ra ngoài màn hình home.\
 \* Ứng dụng được chỉnh sửa từ ứng dụng gốc Nebula Manager trên Play Store được phát hành miễn phí bởi Anker.
@@ -15,9 +15,9 @@ MT Channel - giúp bạn dễ dàng hiển thị những ứng dụng không dà
 | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | Tick chọn ứng dụng muốn hiển thị                                                                                                         |
 
-| [![](https://1.bp.blogspot.com/-gaj4BjixoLA/Xx9yfP6PUlI/AAAAAAAAAYg/V91R-j1Kgp42toVdUxqUFaR\_RxliQzvKACLcBGAsYHQ/s320/116277024\_906967419782036\_362612748698222774\_n.png)](https://1.bp.blogspot.com/-gaj4BjixoLA/Xx9yfP6PUlI/AAAAAAAAAYg/V91R-j1Kgp42toVdUxqUFaR\_RxliQzvKACLcBGAsYHQ/s1600/116277024\_906967419782036\_362612748698222774\_n.png) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Ảnh minh hoạ sau khi đã thiết lập xong.                                                                                                                                                                                                                                                                                                                |
+| [![](https://1.bp.blogspot.com/-gaj4BjixoLA/Xx9yfP6PUlI/AAAAAAAAAYg/V91R-j1Kgp42toVdUxqUFaR\_RxliQzvKACLcBGAsYHQ/s320/116277024\_906967419782036\_362612748698222774\_n.png)](mtchannel.md#download) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ảnh minh hoạ sau khi đã thiết lập xong.                                                                                                                                                              |
 
 ## Download
 

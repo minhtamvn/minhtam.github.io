@@ -5,7 +5,7 @@ description: (Không ổn định)
 # 🏚 Cách cài Google TV Home
 
 Google TV đã ra mắt trên Chromecast mới trong tuần này, trong đó đáng chú ý nhất là màn hình chính được làm mới. Nếu bạn thích phong cách mới thì đây là cách sử dụng màn hình chính của Google TV trên thiết bị Android TV.\
-[![Ảnh minh hoạ](https://1.bp.blogspot.com/-BSR3S-w1-PQ/X3fYHoxXq9I/AAAAAAAAAls/cnn500qTsMMxIWYtDYPpNsVOsJINjH4KwCLcBGAsYHQ/w320-h180/unnamed%2B\(10\).webp)](https://1.bp.blogspot.com/-BSR3S-w1-PQ/X3fYHoxXq9I/AAAAAAAAAls/cnn500qTsMMxIWYtDYPpNsVOsJINjH4KwCLcBGAsYHQ/s1024/unnamed%2B\(10\).webp)![](<../.gitbook/assets/image (5).png>)\\
+![Ảnh minh hoạ](https://1.bp.blogspot.com/-BSR3S-w1-PQ/X3fYHoxXq9I/AAAAAAAAAls/cnn500qTsMMxIWYtDYPpNsVOsJINjH4KwCLcBGAsYHQ/w320-h180/unnamed%2B\(10\).webp)![](<../.gitbook/assets/image (5).png>)
 
 {% hint style="info" %}
 _Lưu ý: Tôi không chịu trách nhiệm về bất kỳ mất mát dữ liệu hoặc lỗi nào bạn có thể gặp phải. Cẩn thận trước khi thực hiện. Tôi chỉ khuyến khích phương pháp này cho những người biết sử dụng các lệnh Android ADB.Yêu cầu thiết bị chạy Android TV 9.0 hoặc cao hơn._\
@@ -37,22 +37,22 @@ Sau khi chạy xong lệnh này, launcher của Google TV sẽ thay thế launch
 \
 HƯỚNG DẪN CHO NGƯỜI DÙNG ĐIỆN THOẠI ANDROIDDùng điện thoại hoặc máy tính bảng Android và cài đặt “[Remote ADB Shell](https://play.google.com/store/apps/details?id=com.cgutman.androidremotedebugger)” từ Cửa hàng Google Play.
 
-[![](https://1.bp.blogspot.com/-O3AavGBwvGY/X3fUHHTZMVI/AAAAAAAAAko/SLdfhKPlZugXIIGX2ho-cx4NSOmuhQEVQCLcBGAsYHQ/s320/429x158xgoogle-tv-android-tv-10.png.pagespeed.gp%2Bjp%2Bjw%2Bpj%2Bws%2Bjs%2Brj%2Brp%2Brw%2Bri%2Bcp%2Bmd.ic.ThcBMv\_KDf.png)](https://1.bp.blogspot.com/-O3AavGBwvGY/X3fUHHTZMVI/AAAAAAAAAko/SLdfhKPlZugXIIGX2ho-cx4NSOmuhQEVQCLcBGAsYHQ/s567/429x158xgoogle-tv-android-tv-10.png.pagespeed.gp%2Bjp%2Bjw%2Bpj%2Bws%2Bjs%2Brj%2Brp%2Brw%2Bri%2Bcp%2Bmd.ic.ThcBMv\_KDf.png)
+![](https://1.bp.blogspot.com/-O3AavGBwvGY/X3fUHHTZMVI/AAAAAAAAAko/SLdfhKPlZugXIIGX2ho-cx4NSOmuhQEVQCLcBGAsYHQ/s320/429x158xgoogle-tv-android-tv-10.png.pagespeed.gp%2Bjp%2Bjw%2Bpj%2Bws%2Bjs%2Brj%2Brp%2Brw%2Bri%2Bcp%2Bmd.ic.ThcBMv\_KDf.png)
 
 Mở ứng dụng và nhập địa chỉ IP của thiết bị Android TV. (theo hướng dẫn bên trên). Giữ nguyên số Port là 5555.
 
-[![](https://1.bp.blogspot.com/-RD1y4YvqNH0/X3fUHC84SwI/AAAAAAAAAlA/Didjx0g\_qyM7er4QMUcQfuNr2k1hpQJoQCPcBGAYYCw/s320/431x198xgoogle-tv-android-tv-1.jpg.pagespeed.gp%2Bjp%2Bjw%2Bpj%2Bws%2Bjs%2Brj%2Brp%2Brw%2Bri%2Bcp%2Bmd.ic.wws1DCjzuG.jpg)](https://1.bp.blogspot.com/-RD1y4YvqNH0/X3fUHC84SwI/AAAAAAAAAlA/Didjx0g\_qyM7er4QMUcQfuNr2k1hpQJoQCPcBGAYYCw/s651/431x198xgoogle-tv-android-tv-1.jpg.pagespeed.gp%2Bjp%2Bjw%2Bpj%2Bws%2Bjs%2Brj%2Brp%2Brw%2Bri%2Bcp%2Bmd.ic.wws1DCjzuG.jpg)
+![](https://1.bp.blogspot.com/-RD1y4YvqNH0/X3fUHC84SwI/AAAAAAAAAlA/Didjx0g\_qyM7er4QMUcQfuNr2k1hpQJoQCPcBGAYYCw/s320/431x198xgoogle-tv-android-tv-1.jpg.pagespeed.gp%2Bjp%2Bjw%2Bpj%2Bws%2Bjs%2Brj%2Brp%2Brw%2Bri%2Bcp%2Bmd.ic.wws1DCjzuG.jpg)
 
 Một thông báo sẽ bật lên trên Android TV của bạn. Chọn “OK” để bật kết nối không dây.\
-[![](https://1.bp.blogspot.com/--WBSv3TdFQs/X3fUH\_43ZjI/AAAAAAAAAlA/34de\_KYkoqQiBlWMg7X76lnyaNt0AFn3ACPcBGAYYCw/s320/xgoogle-tv-android-tv-2.png.pagespeed.gp%2Bjp%2Bjw%2Bpj%2Bws%2Bjs%2Brj%2Brp%2Brw%2Bri%2Bcp%2Bmd.ic.ccnx\_\_RZe2.png)](https://1.bp.blogspot.com/--WBSv3TdFQs/X3fUH\_43ZjI/AAAAAAAAAlA/34de\_KYkoqQiBlWMg7X76lnyaNt0AFn3ACPcBGAYYCw/s651/xgoogle-tv-android-tv-2.png.pagespeed.gp%2Bjp%2Bjw%2Bpj%2Bws%2Bjs%2Brj%2Brp%2Brw%2Bri%2Bcp%2Bmd.ic.ccnx\_\_RZe2.png)
+![](https://1.bp.blogspot.com/--WBSv3TdFQs/X3fUH\_43ZjI/AAAAAAAAAlA/34de\_KYkoqQiBlWMg7X76lnyaNt0AFn3ACPcBGAYYCw/s320/xgoogle-tv-android-tv-2.png.pagespeed.gp%2Bjp%2Bjw%2Bpj%2Bws%2Bjs%2Brj%2Brp%2Brw%2Bri%2Bcp%2Bmd.ic.ccnx\_\_RZe2.png)
 
 Sử dụng lệnh để gỡ cài đặt Trình khởi chạy Android TV. Nhập lệnh dưới đây và nhấn Enter (_đảm bảo rằng Google TV Home đã được cài đặt trước đó_):
 
 * `pm uninstall --user 0 com.google.android.tvlauncher`
 
-[![](https://1.bp.blogspot.com/-50E0hFD15z0/X3fUGzPrcJI/AAAAAAAAAk8/z2IijXBMvrMP6xWb7adu3G3-GrjKT5l6ACPcBGAYYCw/s320/430x391xgoogle-tv-android-tv-3.jpg.pagespeed.gp%2Bjp%2Bjw%2Bpj%2Bws%2Bjs%2Brj%2Brp%2Brw%2Bri%2Bcp%2Bmd.ic.K8uFVxmMIm.jpg)](https://1.bp.blogspot.com/-50E0hFD15z0/X3fUGzPrcJI/AAAAAAAAAk8/z2IijXBMvrMP6xWb7adu3G3-GrjKT5l6ACPcBGAYYCw/s650/430x391xgoogle-tv-android-tv-3.jpg.pagespeed.gp%2Bjp%2Bjw%2Bpj%2Bws%2Bjs%2Brj%2Brp%2Brw%2Bri%2Bcp%2Bmd.ic.K8uFVxmMIm.jpg)
+![](https://1.bp.blogspot.com/-50E0hFD15z0/X3fUGzPrcJI/AAAAAAAAAk8/z2IijXBMvrMP6xWb7adu3G3-GrjKT5l6ACPcBGAYYCw/s320/430x391xgoogle-tv-android-tv-3.jpg.pagespeed.gp%2Bjp%2Bjw%2Bpj%2Bws%2Bjs%2Brj%2Brp%2Brw%2Bri%2Bcp%2Bmd.ic.K8uFVxmMIm.jpg)
 
-Nếu lệnh hoạt động, bạn sẽ thấy một thông báo cho biết “Success”.[![](https://1.bp.blogspot.com/-Q\_zEnpbop8Q/X3fUH6yTStI/AAAAAAAAAk8/loCj06ci1TAqonjY7-J\_WqwD45OZIlI4QCPcBGAYYCw/s320/google-tv-android-tv-4.jpg.pagespeed.ce.ie2CRqWmkL.jpg)](https://1.bp.blogspot.com/-Q\_zEnpbop8Q/X3fUH6yTStI/AAAAAAAAAk8/loCj06ci1TAqonjY7-J\_WqwD45OZIlI4QCPcBGAYYCw/s650/google-tv-android-tv-4.jpg.pagespeed.ce.ie2CRqWmkL.jpg)
+Nếu lệnh hoạt động, bạn sẽ thấy một thông báo cho biết “Success”.![](https://1.bp.blogspot.com/-Q\_zEnpbop8Q/X3fUH6yTStI/AAAAAAAAAk8/loCj06ci1TAqonjY7-J\_WqwD45OZIlI4QCPcBGAYYCw/s320/google-tv-android-tv-4.jpg.pagespeed.ce.ie2CRqWmkL.jpg)
 
 Nếu bạn cần chuyển về launcher gốc của Android TV, hãy chạy lệnh này.
 

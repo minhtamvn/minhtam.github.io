@@ -26,7 +26,7 @@ Tính năng, đặc điểm:
 
 \- Phím tắt & Gán phím dễ dàng.
 
-[![](https://1.bp.blogspot.com/-i0JIgk0XT10/Xyw1M9xukTI/AAAAAAAAAbI/12iukw07n98sjuht0PnJdIClXB\_nkqWCwCPcBGAYYCw/w328-h184/unnamed%2B%282%29.webp)](https://draft.blogger.com/blog/post/edit/8235070244697979808/1050588162558531887)[![](https://1.bp.blogspot.com/-cF316u\_3mX4/Xyw1M3oiaiI/AAAAAAAAAbM/aKtwD7zdhsMbJTviF7DpebPoM58jhtqMgCPcBGAYYCw/w328-h184/unnamed%2B%281%29.webp)](https://draft.blogger.com/blog/post/edit/8235070244697979808/1050588162558531887)
+[![](https://1.bp.blogspot.com/-i0JIgk0XT10/Xyw1M9xukTI/AAAAAAAAAbI/12iukw07n98sjuht0PnJdIClXB\_nkqWCwCPcBGAYYCw/w328-h184/unnamed%2B%282%29.webp)](tv-bro.md#tai-ve)[![](https://1.bp.blogspot.com/-cF316u\_3mX4/Xyw1M3oiaiI/AAAAAAAAAbM/aKtwD7zdhsMbJTviF7DpebPoM58jhtqMgCPcBGAYYCw/w328-h184/unnamed%2B%281%29.webp)](tv-bro.md#tai-ve)
 
 
 
