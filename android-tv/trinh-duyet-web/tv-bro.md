@@ -4,9 +4,6 @@ description: Trình duyệt WEB cho TV
 
 # 🟢 TV Bro
 
-| ![](https://lh4.googleusercontent.com/lDHtz1GTQTBkNg7ulSkA\_1BjVnSMDnQEPwHtcJ2QMTSgTnYIErnJhpXqvYSwdvvAyHBk7LoDc-OM1oiUuwNX8KJIA5hJen\_4x1-Ah6hwePHlyHaPOXjemK92dzg1mWc7ItmyFz70=w115-h115) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
 Bạn đang tìm một trình duyệt web tốt cho TV của mình?Đây sẽ là một lựa chọn không tồi. TV Bro, trình duyệt web được tối ưu hóa để sử dụng với TV từ xa.
 
 Tính năng, đặc điểm:
