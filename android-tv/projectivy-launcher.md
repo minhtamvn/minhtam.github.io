@@ -6,8 +6,9 @@ Projectivy Launcher là một trình khởi chạy thay thế dành cho Android 
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
+## Tính Năng
+
 ```
-Tính năng: 
 ✔ Không có quảng cáo 
 ✔ Phím tắt để thay đổi nguồn đầu vào (HDMI 1/2/3, AV) và menu bật lên trên màn hình 
 ✔ Tự động bắt đầu trực tiếp với mọi đầu vào bên ngoài hoặc ứng dụng đã cài đặt 
@@ -31,7 +32,7 @@ Tính năng:
 
 
 
-## [#mod-info](projectivy-launcher.md#mod-info "mention")
+## Mod Info
 
 ```
 ● Premium Feature Unlock. 
@@ -48,6 +49,6 @@ Tính năng:
 
 
 
-## [#download](projectivy-launcher.md#download "mention")
+## Download
 
 {% embed url="https://drive.google.com/file/d/1CPkNjuYsb1vBAbIIEI2zDc02z6uenTT-/view?usp=sharing" %}
