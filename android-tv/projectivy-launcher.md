@@ -1,4 +1,4 @@
-# 🔵 Projectivy Launcher (MOD)
+# 🔵 Projectivy Launcher
 
 <figure><img src="../.gitbook/assets/image (12).png" alt="" width="60"><figcaption></figcaption></figure>
 
@@ -31,7 +31,7 @@ Tính năng:
 
 
 
-## [#mod-info](projectivy-launcher-mod.md#mod-info "mention")
+## [#mod-info](projectivy-launcher.md#mod-info "mention")
 
 ```
 ● Premium Feature Unlock. 
@@ -48,6 +48,6 @@ Tính năng:
 
 
 
-## [#download](projectivy-launcher-mod.md#download "mention")
+## [#download](projectivy-launcher.md#download "mention")
 
 {% embed url="https://drive.google.com/file/d/1CPkNjuYsb1vBAbIIEI2zDc02z6uenTT-/view?usp=sharing" %}
