@@ -51,4 +51,4 @@ Projectivy Launcher là một trình khởi chạy thay thế dành cho Android 
 
 ## Download
 
-{% embed url="https://drive.google.com/file/d/1CPkNjuYsb1vBAbIIEI2zDc02z6uenTT-/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1TboOeIDR0xjKVL-MahcC3fSNpG6XOP0C/view?usp=drive_link" %}
